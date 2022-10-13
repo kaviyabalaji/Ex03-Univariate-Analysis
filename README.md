@@ -19,7 +19,7 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
 ## Program:
 ```
 Reg no:212221040144
-Name:N.Sandeepa
+Name:B.Kaviya
 import pandas as pd
 import numpy as np
 import seaborn as sns
@@ -42,4 +42,6 @@ sns.distplot(df["Postal Code"])
 sns.histplot(x='Postal Code',data=df
 ```
 ## Output:
+###Dataset:
+
 
